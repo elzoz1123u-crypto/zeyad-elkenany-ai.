@@ -1,0 +1,11 @@
+Zeyad Elkenany AI Arcade v12 — EPIC UPGRADE
+
+New game: NEON PENGUIN RUSH
+- Original dependency-free Canvas game.
+- Play with keyboard arrows or touch/pointer.
+- Collect stars, dodge meteors, earn score and coins.
+- Increasing difficulty with levels.
+- 3 lives, particles, glow effects, game-over screen.
+- Integrates with existing ZeyadArcade XP/coin system when available.
+
+The upgrade is additive and preserves the original project.

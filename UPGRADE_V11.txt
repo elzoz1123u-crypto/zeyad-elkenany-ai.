@@ -1,0 +1,14 @@
+Zeyad Elkenany AI — Arcade Upgrade v11
+
+Added:
+- Dynamic male/female visual themes.
+- Persistent XP, levels, coins, combo and best combo.
+- Floating arcade HUD.
+- Particle effects and level-up feedback.
+- Achievement triggers.
+- Local save via localStorage.
+- Touch swipe controls mapped to keyboard directions.
+- Automatic hooks for Start/Play/Win/Reward buttons.
+- No external libraries required.
+
+The original project files are preserved; the upgrade is additive.

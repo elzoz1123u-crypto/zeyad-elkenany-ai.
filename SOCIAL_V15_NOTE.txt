@@ -1,0 +1,5 @@
+Zeyad Social v15.1
+- Replaced localStorage-only demo chat with authenticated server-backed 1-to-1 messaging.
+- Contacts are real registered users from /api/social/users.
+- Messages use /api/social/messages and refresh automatically.
+- Guest users are prompted to log in.

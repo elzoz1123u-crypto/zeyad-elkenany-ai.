@@ -1,0 +1,1 @@
+{"name":"zeyad-elkenany-ai-full","version":"1.7.0","private":true,"type":"module","scripts":{"start":"node server.js","setup:owner":"node scripts/setup-owner.js","backup":"node scripts/backup-db.js","security:smoke":"node scripts/security-smoke.js"},"engines":{"node":">=22.5"}}

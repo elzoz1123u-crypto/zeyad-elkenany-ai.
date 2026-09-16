@@ -1,0 +1,4 @@
+Zeyad Music v15.1
+- Keeps the original local Arcade tracks.
+- Adds quick YouTube search buttons for official/artist music from Ramy Sabry and Tamer Ashour.
+- Playback uses YouTube embeds instead of bundling copyrighted audio files.
